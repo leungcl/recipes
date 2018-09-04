@@ -2,3 +2,4 @@ icing
 colouring
 flour
 eggs
+chocolate
