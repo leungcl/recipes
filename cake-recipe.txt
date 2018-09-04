@@ -4,4 +4,5 @@ flour
 eggs
 chocolate
 butter
+strawberries
 frosting
