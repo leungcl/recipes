@@ -2,3 +2,4 @@ cocktails
 margarita
 negroni
 americano
+shandy
